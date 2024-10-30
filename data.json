@@ -1,0 +1,12 @@
+[
+    {
+        "uid": 123, 
+        "username": "user here",
+        "query_id": "query/user"
+    },
+    {
+        "uid": 123, 
+        "username": "user here",
+        "query_id": "query/user"
+    }
+]
